@@ -1,8 +1,8 @@
 # Architecture Notes — Beyond the MVP
 
-This demo implements Naïve RAG and Hybrid RAG. The two architectures the JD
-specifically names as comparison targets — **CRAG** and **Self-Reflective RAG** —
-are outlined here. Both are tractable extensions of the existing pipeline.
+This demo implements Naïve RAG and Hybrid RAG. Two natural next architectures —
+**CRAG (Corrective RAG)** and **Self-Reflective RAG** — are outlined here. Both
+are tractable extensions of the existing pipeline.
 
 ---
 

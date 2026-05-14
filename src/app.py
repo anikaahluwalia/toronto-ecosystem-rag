@@ -733,10 +733,10 @@ with st.sidebar:
     st.divider()
     st.markdown("### About")
     st.caption(
-        "Built for the Temerty Health Nexus Chair undergraduate research "
-        "interview. The retriever and generator are intentionally separable "
-        "so the comparison between Naïve and Hybrid retrieval can be measured "
-        "directly."
+        "The retriever and generator are intentionally separable so the "
+        "comparison between Naïve and Hybrid retrieval can be measured "
+        "directly. The same scaffold extends to CRAG and Self-Reflective RAG — "
+        "see ARCHITECTURE_NOTES.md."
     )
     st.caption("**Stack:** ChromaDB · MiniLM embeddings · BM25 · Streamlit")
 

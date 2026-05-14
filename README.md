@@ -1,12 +1,9 @@
-# Toronto Health-Tech Ecosystem RAG — Demo MVP
+# Toronto Health-Tech Ecosystem RAG
 
 A retrieval-augmented generation system that lets prospective health-tech founders
 query Toronto's accelerator, grant, and funding ecosystem and get **grounded, cited,
-date-aware** answers.
-
-Built as a working prototype to support discussion of the Temerty Health Nexus
-Chair RAG project. This is a **demo**, not the deployable MVP — the goal here is
-to make architectural and research-design decisions concrete enough to critique.
+date-aware** answers about programs like H2i, MaRS, JLABS, Creative Destruction Lab,
+OBIO, and more.
 
 ---
 
