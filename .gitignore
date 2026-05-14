@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+env/
+ENV/
+
+# Environment variables (never commit your API key)
+.env
+.env.local
+.env.*.local
+
+# ChromaDB index — auto-rebuilt by app.py on first run
+chroma_store/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Streamlit local cache (config.toml is committed; other Streamlit dirs are not)
+.streamlit/secrets.toml
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
