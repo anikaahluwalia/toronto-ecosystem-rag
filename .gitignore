@@ -39,3 +39,8 @@ chroma_store/
 *.egg-info/
 dist/
 build/
+
+# Personal / interview-prep — do not commit
+Interview_Cheatsheet.docx
+*_Cheatsheet.docx
+DEMO_DAY_CHEATSHEET.md
